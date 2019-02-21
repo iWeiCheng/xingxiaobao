@@ -1,0 +1,152 @@
+<resources>
+    <string name="app_name">探保行销宝</string>
+
+    <string name="WX_APP_ID">wxaa030c1c53a54bb2</string>
+    <string name="WX_APP_KEY">wxaa030c1c53a54bb2</string>
+    <string name="QQ_APP_ID">1106597119</string>
+    <string name="QQ_APP_KEY">848f526b415bf8e7940206e0f4d485d2</string>
+    <string name="SCHEME_QQ">tencent1106597119</string>
+
+
+
+
+
+    <string name="text_web_ceo">美文/微信头条</string>
+    <string name="text_web_dev">生活必备的各种应用</string>
+    <string name="text_e_commerce">必不可少的工具大全</string>
+    <string name="home">首页</string>
+    <string name="vip">VIP特权</string>
+    <string name="kehu">客户</string>
+    <string name="my">我的</string>
+    <string name="empty_no_data">没有请求到数据，点击重试。。。</string>
+    <string name="empty_network_error">网络错误，请重试</string>
+
+
+    <string name="version_update">版本更新</string>
+    <string name="version_update_message">发现新版本，是否立即下载更新？</string>
+    <string name="cancel">取消</string>
+    <string name="sure">确定</string>
+
+    <string name="common_service_tel">020—86228877</string>
+    <string name="common_service_mail">service@51afa.com</string>
+    <string name="common_company_url">www.51afa.com</string>
+    <string name="common_save">保存</string>
+    <string name="register">注册</string>
+    <string name="register_now">立即注册</string>
+    <string name="forget_password">忘记密码?</string>
+    <string name="login">登 录</string>
+    <string name="registers">注册</string>
+    <string name="goto_login">快速登录</string>
+    <string name="goto_register">快速注册</string>
+    <string name="phone">手机号：</string>
+    <string name="password">密  码：</string>
+    <string name="setPassword">设置密码：</string>
+    <string name="register_getcode">获取验证码</string>
+    <string name="regist_finish">完成注册</string>
+    <string name="personal_head_Tv">头像</string>
+    <string name="setting_password">设置密码</string>
+    <string name="setting_password_success">设置成功</string>
+    <string name="findPassword">找回密码</string>
+
+
+    <string name="userIcon">头 像</string>
+    <string name="myname">名字</string>
+    <string name="idNumber">身份证号</string>
+    <string name="myEmail">电子邮箱</string>
+    <string name="myGroup">所属机构</string>
+    <string name="myQrcode">我的二维码</string>
+    <string name="mobile">手机号码</string>
+    <string name="update">版本更新</string>
+    <string name="logout">退出登录</string>
+
+
+    <string name="forgetpwd_tips">温馨提示：您好，欢迎您的使用！请仔细填写以下信息。</string>
+    <string name="setpwd">设置密码</string>
+    <string name="confirmpwd">确认密码</string>
+    <string name="name">姓 名</string>
+    <string name="idCard">身 份 证</string>
+    <string name="phoneNum">手 机 号</string>
+    <string name="verificationCode">验 证 码</string>
+    <string name="pwd">密 码</string>
+    <string name="email">邮 箱</string>
+    <string name="isHasRecommend">是否有推荐人</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+    <string name="group">集 团</string>
+    <string name="recommendNum">推荐人手机号码</string>
+    <string name="branch">分公司</string>
+
+
+    <string name="common_update_success">更新成功</string>
+    <string name="common_write_external_storage_permission">该相册需要赋予访问存储的权限,不开启将无法正常工作!</string>
+    <string name="common_cancel">取消</string>
+    <string name="common_positive">确定</string>
+    <string name="common_open_permission">开启权限</string>
+    <string name="common_picture_all">所有图片</string>
+    <string name="common_picture_preview">预览(%d)</string>
+    <string name="verification_code">验证码：</string>
+    <string name="confirmPwd">确认密码</string>
+
+    <!-- auto update功能 -->
+    <string name="android_auto_update_dialog_title">发现新版本</string>
+    <string name="android_auto_update_notify_ticker">发现新版本,点击进行升级</string>
+    <string name="android_auto_update_notify_content">发现新版本,点击进行升级</string>
+    <string name="android_auto_update_dialog_btn_download">立即下载</string>
+    <string name="android_auto_update_dialog_btn_cancel">以后再说</string>
+    <string name="android_auto_update_toast_no_new_update">已经是最新版本</string>
+    <string name="android_auto_update_download_progress">正在下载:%1$d%%</string>
+    <string name="android_auto_update_dialog_checking">正在检查版本</string>
+    <string name="news_category">新闻频道</string>
+    <string name="set_success">设置成功</string>
+    <string name="my_cahnnel">我的频道</string>
+    <string name="tip_drag">长按编辑，拖拽排序</string>
+    <string name="edit">编辑</string>
+    <string name="finish">完成</string>
+    <string name="other_channel">其他频道</string>
+    <string name="transition_wechat_img">transition_wechat_img</string>
+    <string name="wechat_select">微信精选</string>
+    <string name="load_more_error">加载更多数据失败！</string>
+    <string name="calendar">日历</string>
+    <string name="zxing">二维码</string>
+    <string name="transition_userhead">编辑头像</string>
+
+
+    <string name="wxcircle">微信朋友圈</string>
+    <string name="wx">微信</string>
+    <string name="qq">QQ好友</string>
+    <string name="qzone">QQ空间</string>
+    <string name="wx_favorite">微信收藏</string>
+    <string name="message">短信</string>
+
+    <string name="no_network">暂时没有网络</string>
+    <string name="reload">重新加载</string>
+    <string name="no_data">没有数据</string>
+
+
+    <!--会员中心-->
+    <string name="member_center">会员中心</string>
+    <string name="person_order">个险订单</string>
+    <string name="car_order">车险订单</string>
+    <string name="other_order">其他订单</string>
+    <string name="acc_income">佣金累计</string>
+    <string name="purse_balance">钱包金币</string>
+    <string name="rmb">￥</string>
+    <string name="acc_personal_insurance">个险佣金</string>
+    <string name="acc_car_insurance">车险佣金</string>
+    <string name="acc_other_insurance">其他佣金</string>
+    <string name="compensation_progress">补偿进度</string>
+    <string name="set_store">设置门店</string>
+    <string name="remain_open">待开放</string>
+    <string name="publish_article">发表文章</string>
+    <string name="publish_in_w_store">在微店发表想法</string>
+    <string name="my_fans">我的粉丝</string>
+    <string name="partner">一起玩的伙伴</string>
+    <string name="invite_friends">邀请好友</string>
+    <string name="share_good">好事当然要分享</string>
+    <string name="common_problems">常见问题</string>
+    <string name="online_service">在线客服</string>
+    <string name="setting_manager">设置管理</string>
+    <string name="name_desc">最专业的保险行销专家</string>
+    <string name="new_msg">新消息</string>
+
+</resources>

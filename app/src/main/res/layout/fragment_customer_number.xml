@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+    <TextView
+        android:id="@+id/tv_done"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/gray_cart_total"
+        android:text="完成"
+        android:textSize="15sp"
+        android:paddingRight="20dp"
+        android:textColor="@color/text_black"
+        android:gravity="right|center_vertical"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#D4D5DA"
+        android:orientation="vertical">
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/recycler_view1"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
+            android:layout_marginTop="3dp" />
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/recycler_view2"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
+            android:layout_marginTop="10dp" />
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/recycler_view3"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginTop="10dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="10dp">
+
+            <TextView
+                android:id="@+id/tv_cancel"
+                android:layout_width="40dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="3dp"
+                android:background="@drawable/shape_number_back"
+                android:gravity="center"
+                android:text="返回"
+                android:textColor="@color/white" />
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/recycler_view4"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_weight="1" />
+
+            <RelativeLayout
+                android:id="@+id/delete"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginRight="3dp"
+                android:background="@drawable/shape_number_back">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:src="@drawable/delete" />
+            </RelativeLayout>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

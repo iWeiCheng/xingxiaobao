@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">富保宝</string>
+    <string name="WX_APP_ID">wx43eaba88fba623b6</string>
+    <string name="WX_APP_KEY">18c7399c15eeca116b6ba955f2d93ba2</string>
+    <string name="QQ_APP_ID">1106843813</string>
+    <string name="QQ_APP_KEY">tajoVIflJlU7qnRu</string>
+    <string name="SCHEME_QQ">tencent1106843813</string>
+
+</resources>

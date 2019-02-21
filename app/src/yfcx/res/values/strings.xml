@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">云浮车险</string>
+    <string name="WX_APP_ID">wx403ac02375188b99</string>
+    <string name="WX_APP_KEY">cc7d0151576beee3f3c75b3a51987035</string>
+    <string name="QQ_APP_ID">1106780778</string>
+    <string name="QQ_APP_KEY">PZJYHY9ZVq0oxgjF</string>
+    <string name="SCHEME_QQ">tencent1106780778</string>
+
+</resources>

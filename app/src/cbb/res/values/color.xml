@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--用来存放App中用到的其他颜色-->
+<resources>
+
+
+    <!--登录-->
+    <color name="login_white">#8798A8</color>
+
+</resources>

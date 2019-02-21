@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">车保宝</string>
+    <string name="WX_APP_ID">wx16dec3b35d216c40</string>
+    <string name="WX_APP_KEY">ce95af7bd9b292ffbce7a361459a0982</string>
+    <string name="QQ_APP_ID">1106726066</string>
+    <string name="QQ_APP_KEY">51aPprIBigCP05kR</string>
+    <string name="SCHEME_QQ">tencent1106726066</string>
+
+    <!--登录-->
+    <string name="setpwd">设置密码：</string>
+    <string name="confirmpwd">确认密码：</string>
+    <string name="name">您的姓名：</string>
+    <string name="idCard">身份证号：</string>
+    <string name="phoneNum">手机号码：</string>
+    <string name="verificationCode">验证码：</string>
+    <string name="pwd">密码：</string>
+    <string name="email">邮箱：</string>
+    <string name="isHasRecommend">推荐人:</string>
+    <string name="yes">有</string>
+    <string name="no">无</string>
+    <string name="group">集团：</string>
+    <string name="recommendNum">推荐人手机号码：</string>
+    <string name="branch">分公司：</string>
+    
+    <!--注册-->
+    <string name="agree_protocol">已经阅读并同意<u>用户协议</u></string>
+</resources>

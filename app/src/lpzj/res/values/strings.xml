@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">理赔专家</string>
+    <string name="WX_APP_ID">wx17f213c615351e83</string>
+    <string name="WX_APP_KEY">8666a26a74f1f58c3285f90a63df2915</string>
+    <string name="QQ_APP_ID">1106651597</string>
+    <string name="QQ_APP_KEY">qnO28iQRPuvX2JKu</string>
+    <string name="SCHEME_QQ">tencent1106651597</string>
+
+</resources>

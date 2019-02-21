@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include layout="@layout/activity_titlebar_layout" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="34dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="31dp"
+        android:drawableLeft="@drawable/plate"
+        android:drawablePadding="10dp"
+        android:text="车牌识别"
+        android:textColor="@color/black"
+        android:textSize="15sp" />
+
+    <EditText
+        android:id="@+id/edt_number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:background="@color/white"
+        android:inputType="text"
+        android:singleLine="true"
+        android:textSize="24sp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="14dp"
+        android:background="@color/gray_line" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="14dp"
+        android:drawableLeft="@drawable/plate_notice"
+        android:drawablePadding="5dp"
+        android:text="请核对车牌信息，确认无误"
+        android:textColor="@color/black"
+        android:textSize="12sp" />
+
+    <Button
+        android:id="@+id/btn_submit"
+        android:layout_width="match_parent"
+        android:layout_height="36dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="52dp"
+        android:background="@color/textGreen"
+        android:text="@string/sure"
+        android:textColor="@color/white"
+        android:textSize="15sp" />
+
+</LinearLayout>

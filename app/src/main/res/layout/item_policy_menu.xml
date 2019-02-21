@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/root"
+    android:layout_width="match_parent"
+    android:layout_height="73dp"
+    android:background="@drawable/shape_line"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:gravity="center"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/item_img"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginTop="5dp"
+            android:src="@drawable/logo" />
+
+        <ImageView
+            android:id="@+id/item_red_point"
+            android:layout_marginLeft="25dp"
+            android:layout_width="8dp"
+            android:layout_height="8dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@drawable/shape_red_point"
+            android:visibility="gone" />
+
+        <com.jiajun.demo.views.CircleImageView
+            android:id="@+id/item_shadow"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginTop="5dp"
+            android:background="#a0ffffff"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/item_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="5dp" />
+</LinearLayout>

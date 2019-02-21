@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">广福行销宝</string>
+    <string name="WX_APP_ID">wxbe5a607d2651f46d</string>
+    <string name="WX_APP_KEY">98ea70ca99d4a4c6b5ac71df52ba0f08</string>
+    <string name="QQ_APP_ID">1106727994</string>
+    <string name="QQ_APP_KEY">tAXWEA1K8ld51XgU</string>
+    <string name="SCHEME_QQ">tencent1106727994</string>
+
+</resources>

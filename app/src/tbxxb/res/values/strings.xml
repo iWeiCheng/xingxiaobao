@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">探保行销宝</string>
+    <string name="WX_APP_ID">wx13b502511ac8f8cb</string>
+    <string name="WX_APP_KEY">0d443db4e27f6568685b9423b04dbeb5</string>
+    <string name="QQ_APP_ID">1105449288</string>
+    <string name="QQ_APP_KEY">GoqVcJZImRmsJFsE</string>
+    <string name="SCHEME_QQ">tencent1105449288</string>
+
+</resources>

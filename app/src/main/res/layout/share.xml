@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/share_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawablePadding="10dp"
+            android:drawableTop="@drawable/share_1"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="@string/wxcircle" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawablePadding="10dp"
+            android:drawableTop="@drawable/share_2"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="@string/wx" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawablePadding="10dp"
+            android:drawableTop="@drawable/share_3"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="@string/qq" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawablePadding="10dp"
+            android:drawableTop="@drawable/share_4"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="@string/qzone" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/share_layout2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawablePadding="10dp"
+            android:drawableTop="@drawable/share_7"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="@string/wx_favorite" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawablePadding="10dp"
+            android:drawableTop="@drawable/share_6"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="@string/message" />
+
+        <TextView
+            android:visibility="invisible"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawablePadding="10dp"
+            android:drawableTop="@drawable/share_1"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="@string/wxcircle" />
+
+        <TextView
+            android:visibility="invisible"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawablePadding="10dp"
+            android:drawableTop="@drawable/share_1"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="@string/wxcircle" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">太创保</string>
+    <string name="WX_APP_ID">wx4406e59a9c160985</string>
+    <string name="WX_APP_KEY">22dee4efcec610c4784f834b58adcb58</string>
+    <string name="QQ_APP_ID">1107776487</string>
+    <string name="QQ_APP_KEY">BV2Mw3gCvOS39iTa</string>
+    <string name="SCHEME_QQ">tencent1107776487</string>
+
+</resources>

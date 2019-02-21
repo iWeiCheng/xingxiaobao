@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">easy保险</string>
+    <string name="WX_APP_ID">wxb56c0243b910d211</string>
+    <string name="WX_APP_KEY">723421f044fc4678edfb2887a74fe14e</string>
+    <string name="QQ_APP_ID">1105822741</string>
+    <string name="QQ_APP_KEY">KgyR18FgmOXKQNmQ</string>
+    <string name="SCHEME_QQ">tencent1105822741</string>
+
+</resources>
